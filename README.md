@@ -1,7 +1,9 @@
 # Nihon-Walls
 Wallpapers of Japan
 
-Credit to [Armadas](https://www.youtube.com/@armadas_japan) on YouTube.
+### Credits 
+- [Armadas](https://www.youtube.com/@armadas_japan)
+- [8k Japan](https://www.youtube.com/results?search_query=japan+in+8k)
 
 ## Preview (W.I.P)
 
