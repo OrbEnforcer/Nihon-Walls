@@ -5,7 +5,7 @@ Wallpapers of Japan
 - [Armadas](https://www.youtube.com/@armadas_japan)
 - [8k Japan](https://www.youtube.com/results?search_query=japan+in+8k)
 
-## Preview (W.I.P)
+## Preview
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 |---------|---------|---------|---------|---------|
